@@ -9,6 +9,11 @@ export const languages = {
     VI: 'vi',
     EN: 'en'
 };
+
+export const theme = {
+    Dark: 'dark',
+    Light: 'light'
+};
  
 export const manageActions = {
     ADD: "ADD",

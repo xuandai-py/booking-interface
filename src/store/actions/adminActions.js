@@ -1,3 +1,5 @@
+/** missed */
+
 import actionTypes from './actionTypes';
 
 export const adminLoginSuccess = (adminInfo) => ({
@@ -12,3 +14,7 @@ export const adminLoginFail = () => ({
 export const processLogout = () => ({
     type: actionTypes.PROCESS_LOGOUT
 })
+
+
+
+
